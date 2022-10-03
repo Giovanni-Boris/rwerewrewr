@@ -11,6 +11,7 @@ void ss(){
   print();
   if(){
 	 print("hol");
+   printf("");
   }
   else{
 	 print("hola");
