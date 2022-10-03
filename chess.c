@@ -4,18 +4,18 @@
 
 
 void ss(){
-  print(8c);
-  switch(C){
-
+  switch(c){
+    case '_': return '=';
   }
-  print();
   if(){
-	 print("hol");
-   printf("");
+    print("·");
+    print("·");
   }
+  
   else{
-	 print("hola");
+    int x=9;
   }
+
  
 	
 }
