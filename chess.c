@@ -6,9 +6,16 @@
 void ss(){
   print(8c);
   switch(C){
-	 case 'dsd':return "323;
 
   }
+  print();
+  if(){
+	 print("hol");
+  }
+  else{
+	 print("hola");
+  }
+ 
 	
 }
 char inverter(char c){
